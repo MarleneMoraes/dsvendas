@@ -1,5 +1,5 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React 5 (2021)
-Projeto de app full-stack responsivo de avaliação de vendas com armazenamento em banco de dados relacional dividido em 3 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. Este projeto foi em 2021 e, como realizei fora do prazo, não postei no meu repositório para consultas. Entretanto, com a minha participação na primeira edição de 2022, senti a necessidade de enviar o projeto completo para o meu GitHub. 
+Projeto de app full-stack responsivo de avaliação de vendas com armazenamento em banco de dados relacional dividido em 3 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. Este projeto foi em 2021 e, como realizei fora do prazo, não postei no meu repositório para consultas. Entretanto, com a minha participação na primeira edição de 2022, senti a necessidade de refazer e enviar o projeto completo para o meu GitHub. 
 
 ## Tecnologias
 O sistema utiliza React em seu front-end e Spring no back-end.
