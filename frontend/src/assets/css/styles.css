@@ -8,6 +8,15 @@ html, body {
     font-family: "Ubuntu", sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+a:hover {
+    color: #fff;
+}
+
 #root {
     display: flex;
     flex-direction: column;
