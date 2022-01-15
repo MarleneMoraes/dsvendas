@@ -1,6 +1,8 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React 5 (2021)
 Projeto de app full-stack responsivo de avaliação de vendas com armazenamento em banco de dados relacional dividido em 3 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. Este projeto foi em 2021 e, como realizei fora do prazo, não postei no meu repositório para consultas. Entretanto, com a minha participação na primeira edição de 2022, senti a necessidade de refazer e enviar o projeto completo para o meu GitHub. 
 
+Para acessar o site em deploy, acesse <a href="https://ds-vendas-sds5.netlify.app/" target="_blank">aqui</a>.
+
 ## Tecnologias
 O sistema utiliza React em seu front-end e Spring no back-end.
 
@@ -45,5 +47,4 @@ O objetivo deste treinamento é aprofundar meus conhecimentos em Spring, framewo
 [![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
-
-
+> Status do projeto: Concluído :heavy_check_mark:
