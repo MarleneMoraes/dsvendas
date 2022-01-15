@@ -947,3 +947,18 @@ org.eclipse.core.runtime.AssertionFailedException: null argument:pattern
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-15 11:59:00.472
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vPvlaEpz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-15 11:59:00.473
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vPvlaEpz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-15 11:59:00.473
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-15 11:59:00.473
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vPvlaEpz => OK
+
+!ENTRY org.eclipse.ui 2 2 2022-01-15 11:59:28.088
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
