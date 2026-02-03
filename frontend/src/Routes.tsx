@@ -1,10 +1,10 @@
 import Dashboard from 'pages/Dashboard';
 import Home from 'pages/Home';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 
 const Routes = () => {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Switch>
                 <Route path="/" exact>
                     <Home/>
@@ -13,7 +13,7 @@ const Routes = () => {
                     <Dashboard/>
                 </Route>
             </Switch>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
 
