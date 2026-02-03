@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dsvendas/static/css/main.a59c2dc5.css",
-    "main.js": "/dsvendas/static/js/main.552dd461.js",
+    "main.js": "/dsvendas/static/js/main.ba486263.js",
     "static/media/ds-dark.svg": "/dsvendas/static/media/ds-dark.902563479245d19dcf0358e7195f5e9c.svg",
     "index.html": "/dsvendas/index.html",
     "main.a59c2dc5.css.map": "/dsvendas/static/css/main.a59c2dc5.css.map",
-    "main.552dd461.js.map": "/dsvendas/static/js/main.552dd461.js.map"
+    "main.ba486263.js.map": "/dsvendas/static/js/main.ba486263.js.map"
   },
   "entrypoints": [
     "static/css/main.a59c2dc5.css",
-    "static/js/main.552dd461.js"
+    "static/js/main.ba486263.js"
   ]
 }
