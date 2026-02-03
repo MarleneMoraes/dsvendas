@@ -15,7 +15,7 @@ const DonutChart = () => {
     const [chartData, setChartData] = useState<ChartData>({ labels: [], series: []});
     
     useEffect(() => {
-        axios.get(`${BASE_URL}/sales/amountBySeller`)
+        axios.get(`${BASE_URL}/amountBySeller.json`)
             .then(response => {
                 const data = response.data as SaleSum[];
                 const myLabels = data.map(x => x.sellerName);
@@ -32,12 +32,16 @@ const DonutChart = () => {
     }
     
     return (
-        <Chart 
-            options = {{ ...options, labels: chartData.labels }}  
-            series = { chartData.series }
-            type = 'donut'
-            height = '240'  
-        />
+        chartData.labels.length > 0 ? (
+            <Chart 
+                options={{ ...options, labels: chartData.labels }}  
+                series={chartData.series}
+                type='donut'
+                height='240'  
+            />
+        ) : (
+            <p>Carregando dados...</p>
+        )
     );
 }
 
